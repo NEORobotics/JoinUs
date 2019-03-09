@@ -26,4 +26,3 @@ Download the package and unzip into your laptop.
 4- Export it into pdf electronic version.
 
 5- Send your resume to mailbox group(stuneo009@gmail.com).
-
