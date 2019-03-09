@@ -21,7 +21,7 @@ Download the package and unzip into your laptop.
 
 2- Fill out personal information according to the picture above.
 
-3- Use your own avatar image and put it into /static/image to replace 1.png(the name should be 1.png).
+3- Use your own avatar and put it into /static/image to replace 1.png(the name should be 1.png).
 
 4- Export it into pdf electronic version.
 
